@@ -1,0 +1,3 @@
+f101*India*UAE*19
+f102*India*USA*0
+f103*India*CANADA*10
